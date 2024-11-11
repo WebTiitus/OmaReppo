@@ -1,4 +1,4 @@
-# omareppo
+# Omaprojekti
 
 Tämä on minun testiReppo
 
