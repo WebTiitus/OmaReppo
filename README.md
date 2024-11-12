@@ -1,4 +1,4 @@
-# Omaprojekti
+# Minun Omareppo 
 
 Tämä on minun testiReppo
 
@@ -6,4 +6,4 @@ Tämä on minun testiReppo
 
 tähän tulee ohjeita
 
-## 
+### 
